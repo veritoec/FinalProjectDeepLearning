@@ -7,17 +7,17 @@ This is our **final project** for the **Deep Leaning** course at UPF. In it, we 
 1. **Lyrics generation**: generation of text containing lyrics for songs
     - Data
     - Old Versions
-        - lyricsGenRNN.py
-        - lyricsGenLSTM.py
-        - lyricsGenBiLSTM.py
+        - lyricsGenRNN.py - Addapted from [3]
+        - lyricsGenLSTM.py - Addapted from [3]
+        - lyricsGenBiLSTM.py - Addapted from [4]
     - Results
-    - lyricsGenAll.py
+    - lyricsGenAll.py - Addapted from [4]
 2. **Music generation**: generation of audio corresponding to a generated midi file for a song
    - Data
    - midi
    - Results
-   - musicGenRNN.py
-   - musicGenLSTM.py
+   - musicGenRNN.py - Addapted from [6]
+   - musicGenLSTM.py - Addapted from [6]
 
 #### What can be found in this Workspace?
 Our Music Generation folder and our Lyrics Generation folder, in those two we can found our respective Data and Results folders as well our notebooks.
