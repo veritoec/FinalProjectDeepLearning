@@ -5,7 +5,7 @@ By Veronica Bruno (230904), Cristina Galvez (230260) and Rafael Bardisa (231142)
 #### What is this project?
 This is our **final project** for the **Deep Leaning** course at UPF. In it, we study the use of Deep Leaning methods, such as RNNs or LSTMs, for **music generation**. The two main blocks we worked on were
 1. **Lyrics generation**: generation of text containing lyrics for songs
-    - Data
+    - Data - from [10]
     - Old Versions
         - lyricsGenRNN.py - Addapted from [3]
         - lyricsGenLSTM.py - Addapted from [3]
@@ -13,7 +13,7 @@ This is our **final project** for the **Deep Leaning** course at UPF. In it, we 
     - Results
     - lyricsGenAll.py - Addapted from [4]
 2. **Music generation**: generation of audio corresponding to a generated midi file for a song
-   - Data
+   - Data - from [11]
    - midi
    - Results
    - musicGenRNN.py - Addapted from [6]
@@ -35,3 +35,6 @@ The code has been built in Google Drive and the data paths are hard coded to be 
 [7] https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master/05.%20Improvements%20to%20the%20RNN
 [8] http://www.iro.umontreal.ca/~lisa/deep/midi.zip
 [9] https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master/05.%20Improvements%20to%20the%20RNN
+[10] https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master/04.%20Generating%20Song%20Lyrics%20Using%20RNN/data
+[11] https://github.com/SudharshanShanmugasundaram/Music-Generation/tree/master/notebooks/Nottingham
+
