@@ -13,7 +13,7 @@ This is our **final project** for the **Deep Leaning** course at UPF. In it, we 
    - musicGenLSTM.py
 
 #### What can be found in this Workspace?
-Our Data folder, Results folder, our Music Generation folder and our Lyrics Generation folder
+Our Music Generation folder and our Lyrics Generation folder, in those two we can found our respective Data and Results folders as well our notebooks.
 
 #### How to run the code in the repository?
 The code has been built in Google Drive and the data paths are hard coded to be our drive's. Nevertheless, all data is present in this repository and you can modify the paths at the beginning of each notebook.
