@@ -38,7 +38,6 @@ class RawOutstreamFile:
 
     def writeSlice(self, str_slice):
         """Writes the next text slice to the raw data"""
-        print(str_slice)
         self.buffer.write(to_bytes(str_slice))
 
     def writeBew(self, value, length=1):
@@ -54,8 +53,6 @@ class RawOutstreamFile:
         if self.outfile:
             if isinstance(self.outfile, str):
                 outfile = open(self.outfile, 'wb')
-                print('hobo hobo')
-                print(self.getvalue())
                 outfile.write(self.getvalue())
                 outfile.close()
             else:
