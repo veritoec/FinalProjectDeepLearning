@@ -5,10 +5,17 @@ By Veronica Bruno (230904), Cristina Galvez (230260) and Rafael Bardisa (231142)
 #### What is this project?
 This is our **final project** for the **Deep Leaning** course at UPF. In it, we study the use of Deep Leaning methods, such as RNNs or LSTMs, for **music generation**. The two main blocks we worked on were
 1. **Lyrics generation**: generation of text containing lyrics for songs
-    - lyricsGenRNN.py
-    - lyricsGenLSTM.py
-    - lyricsGenBiLSTM.py
+    - Data
+    - Old Versions
+        - lyricsGenRNN.py
+        - lyricsGenLSTM.py
+        - lyricsGenBiLSTM.py
+    - Results
+    - lyricsGenAll.py
 2. **Music generation**: generation of audio corresponding to a generated midi file for a song
+   - Data
+   - midi
+   - Results
    - musicGenRNN.py
    - musicGenLSTM.py
 
