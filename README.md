@@ -27,14 +27,24 @@ The code has been built in Google Drive and the data paths are hard coded to be 
   
 #### Refferences & Acknowledgements
 [1] https://towardsdatascience.com/generating-music-using-deep-learning-cb5843a9d55e
+
 [2] https://www.baeldung.com/cs/bidirectional-vs-unidirectional-lstm
+
 [3] https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/04.%20Generating%20Song%20Lyrics%20Using%20RNN/4.06%20Generating%20Song%20Lyrics%20Using%20RNN.ipynb
+
 [4] https://medium.com/@david.campion/text-generation-using-bidirectional-lstm-and-doc2vec-models-1-3-8979eb65cb3a
+
 [5] http://warmspringwinds.github.io/pytorch/rnns/2018/01/27/learning-to-generate-lyrics-and-music-with-recurrent-neural-networks/
+
 [6] https://github.com/SudharshanShanmugasundaram/Music-Generation/blob/master/notebooks/musicGeneration.ipynb
+
 [7] https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master/05.%20Improvements%20to%20the%20RNN
+
 [8] http://www.iro.umontreal.ca/~lisa/deep/midi.zip
+
 [9] https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master/05.%20Improvements%20to%20the%20RNN
+
 [10] https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master/04.%20Generating%20Song%20Lyrics%20Using%20RNN/data
+
 [11] https://github.com/SudharshanShanmugasundaram/Music-Generation/tree/master/notebooks/Nottingham
 
