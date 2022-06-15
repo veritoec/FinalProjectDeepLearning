@@ -1,8 +1,8 @@
 # Final Project Deep Learning
-### Music Generation
+## Music Generation
 By Veronica Bruno (230904), Cristina Galvez (230260) and Rafael Bardisa (231142).
 
-#### What is this project?
+### What is this project?
 This is our **final project** for the **Deep Leaning** course at UPF. In it, we study the use of Deep Leaning methods, such as RNNs or LSTMs, for **music generation**. The two main blocks we worked on were
 1. **Lyrics generation**: generation of text containing lyrics for songs
     - Data - from [10]
@@ -19,13 +19,13 @@ This is our **final project** for the **Deep Leaning** course at UPF. In it, we 
    - musicGenRNN.py - Addapted from [6]
    - musicGenLSTM.py - Addapted from [6]
 
-#### What can be found in this Workspace?
+### What can be found in this Workspace?
 Our Music Generation folder and our Lyrics Generation folder, in those two we can found our respective Data and Results folders as well our notebooks.
 
-#### How to run the code in the repository?
+### How to run the code in the repository?
 The code has been built in Google Drive and the data paths are hard coded to be our drive's. Nevertheless, all data is present in this repository and you can modify the paths at the beginning of each notebook.
   
-#### Refferences & Acknowledgements
+### Refferences & Acknowledgements
 [1] https://towardsdatascience.com/generating-music-using-deep-learning-cb5843a9d55e
 
 [2] https://www.baeldung.com/cs/bidirectional-vs-unidirectional-lstm
